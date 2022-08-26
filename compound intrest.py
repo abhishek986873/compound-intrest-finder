@@ -6,15 +6,3 @@ b=(a**Y)
 c=(P*b)
 f=int((c-P))
 print("COMPOUND INTREST = ",f)
-
-
-
-
-
-
-
-
-
-
-
-
